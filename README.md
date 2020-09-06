@@ -6,4 +6,4 @@
 
 
 项目截图  <br/>
-![image](https://github.com/pheromone/langaw/blob/master/result.gif ) <br/>
+![image]( https://github.com/pheromone/langaw/blob/master/result.gif ) <br/>
