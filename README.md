@@ -5,4 +5,4 @@
 主要使用框架 [ flame ]( https://github.com/flame-engine/flame )    <br/>
 [ 项目教程 ]( https://github.com/HarrisonQi/flame-tutorial-langaw )  <br/>
 项目截图  <br/>
-![image]( https://github.com/pheromone/langaw/blob/master/result.gif ) <br/>
+![image]( https://github.com/shaoting0730/langaw/blob/master/result.gif ) <br/>
